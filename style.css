@@ -6,3 +6,18 @@ body {
     font-family: 'Inter', sans-serif;
     background-color: hsl(0, 0%, 8%);
 }
+
+main section address{
+    color: hsl(75, 94%, 57%);
+    font-style: normal;
+    font-size: 14px;
+}
+
+main p {
+    font-size: 14px;
+    color: hsl(0, 0%, 100%);
+}
+
+.wrapper {
+    background-color: hsl(0, 0%, 12%);
+}
