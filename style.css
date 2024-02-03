@@ -45,8 +45,8 @@ main p {
 
 section img {
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     display: block;
 }
 
@@ -54,5 +54,5 @@ section img {
     color: var(--cl-white);
     margin-top: 1rem;
     margin-bottom: .5rem;
-    font-size: 20px;
+    font-size: 24px;
 }
